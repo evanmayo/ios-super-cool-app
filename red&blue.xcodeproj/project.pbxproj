@@ -47,6 +47,7 @@
 		96E537661BB1E8010058E6DC /* red&blueUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "red&blueUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		96E5376A1BB1E8010058E6DC /* red_blueUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = red_blueUITests.swift; sourceTree = "<group>"; };
 		96E5376C1BB1E8010058E6DC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		96E537781BB1EB780058E6DC /* variables.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = variables.playground; path = ../../../variables.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +101,7 @@
 				96E5374A1BB1E8010058E6DC /* AppDelegate.swift */,
 				96E5374C1BB1E8010058E6DC /* ViewController.swift */,
 				96E5374E1BB1E8010058E6DC /* Main.storyboard */,
+				96E537781BB1EB780058E6DC /* variables.playground */,
 				96E537511BB1E8010058E6DC /* Assets.xcassets */,
 				96E537531BB1E8010058E6DC /* LaunchScreen.storyboard */,
 				96E537561BB1E8010058E6DC /* Info.plist */,
